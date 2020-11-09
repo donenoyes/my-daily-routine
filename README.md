@@ -25,3 +25,4 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns). ffs.
 - Make notes of Clean Architecture CWM course. Atleast 30.
 
     - 8/30 done 🐣
+    - 18/30 done 🗿
