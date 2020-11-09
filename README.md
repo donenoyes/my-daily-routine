@@ -10,15 +10,9 @@ What I do daily and why and for whom.
 
 **My Daily Routine** until 2022.
 
-## Contents
+## Timeline
 
-- [2007](#2007)  
-
-
-:memo: [**Contributing**](#memo-contributing)
-
-:seedling: [**Contributors**](#seedling-contributors)
-
+- [2020](#2020)  
 
 ## 2020
 
