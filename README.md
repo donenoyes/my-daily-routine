@@ -32,3 +32,5 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns). ffs.
 For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Prepare script for Source Lines of Code video.
+
+    - harder than expected. topic is huge af. will do it later.
