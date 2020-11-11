@@ -44,3 +44,9 @@ For the team at [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 
 - Continute reading Android Navigation docs and take notes.
 
     - Done. was long af.
+
+#### Thursday, 12 November 2020
+
+For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+
+- Finding Android tools on GitHub.
