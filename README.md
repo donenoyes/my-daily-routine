@@ -42,3 +42,5 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 For the team at [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 254
 
 - Continute reading Android Navigation docs and take notes.
+
+    - Done. was long af.
