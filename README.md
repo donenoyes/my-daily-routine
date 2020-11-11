@@ -36,3 +36,9 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
     - harder than expected. topic is huge af. will do it later.
 
 - Read Android Navigation docs 
+
+#### Wednesday, 11 November 2020
+
+For the team at [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 254
+
+- Continute reading Android Navigation docs and take notes.
