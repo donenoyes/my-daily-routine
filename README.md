@@ -50,3 +50,9 @@ For the team at [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 
 For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Finding Android tools on GitHub.
+
+#### Friday, 13 November 2020
+
+For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+
+- Tried https://github.com/wasabeef/Takt for FPS measurement on Android but display over other apps did not work.
