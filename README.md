@@ -60,4 +60,6 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Read Intents and intent filters doc.
 
+    - Done.
+
 - Manager of TYTO.
