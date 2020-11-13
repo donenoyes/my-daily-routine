@@ -66,6 +66,8 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Read User Interface docs.
 
+    - Done.
+
 #### Saturday, 14 November 2020
 
 For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
