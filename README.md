@@ -56,3 +56,7 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Tried https://github.com/wasabeef/Takt for FPS measurement on Android but display over other apps did not work.
+
+- Read Intents and intent filters doc.
+
+- Manager of TYTO.
