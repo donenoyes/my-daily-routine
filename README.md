@@ -58,8 +58,16 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Tried https://github.com/wasabeef/Takt for FPS measurement on Android but display over other apps did not work.
 
-- Read Intents and intent filters doc.
+- Read Intents and intent filters docs.
 
     - Done.
 
 - Manager of TYTO.
+
+- Read User Interface docs.
+
+#### Saturday, 14 November 2020
+
+For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+
+- Read Create a list with RecyclerView doc
