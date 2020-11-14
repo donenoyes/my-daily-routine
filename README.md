@@ -74,4 +74,6 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Read Create a list with RecyclerView docs.
 
+    - Done.
+
 - Travel to another city.
