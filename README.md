@@ -72,4 +72,6 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
-- Read Create a list with RecyclerView doc
+- Read Create a list with RecyclerView docs.
+
+- Travel to another city.
