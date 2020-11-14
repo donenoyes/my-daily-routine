@@ -77,3 +77,9 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
     - Done.
 
 - Travel to another city.
+
+#### Sunday, 15 November 2020
+
+For the team at [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wadachi).
+
+- Read Dark Theme docs.
