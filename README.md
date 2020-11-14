@@ -85,3 +85,6 @@ For the team at [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wad
 - Read Dark Theme docs.
 
     - Done.
+
+- Read Create Shadows and Clip Views docs.
+
