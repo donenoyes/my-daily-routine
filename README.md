@@ -21,7 +21,7 @@ What I do daily and why and for whom.
 
 #### Monday, 9 November 2020
 
-For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns). ffs. so good.
+For the team [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns). ffs. so good.
 
 - Make notes of Clean Architecture CWM course. Atleast 30.
 
@@ -30,7 +30,7 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns). ffs.
 
 #### Tuesday, 10 November 2020
 
-For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+For the team [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Prepare script for Source Lines of Code video.
 
@@ -40,7 +40,7 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 #### Wednesday, 11 November 2020
 
-For the team at [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 254
+For the team [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 254
 
 - Continute reading Android Navigation docs and take notes.
 
@@ -48,13 +48,13 @@ For the team at [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 
 
 #### Thursday, 12 November 2020
 
-For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+For the team [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Finding Android tools on GitHub.
 
 #### Friday, 13 November 2020
 
-For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+For the team [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Tried https://github.com/wasabeef/Takt for FPS measurement on Android but display over other apps did not work.
 
@@ -70,7 +70,7 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 #### Saturday, 14 November 2020
 
-For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
+For the team [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 - Read Create a list with RecyclerView docs.
 
@@ -80,7 +80,7 @@ For the team at [Twenty your life on](https://www.iq.com/play/2ffkwt8zcns).
 
 #### Sunday, 15 November 2020
 
-For the team at [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wadachi).
+For the team [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wadachi).
 
 - Read Dark Theme docs.
 
@@ -99,3 +99,5 @@ For the team at [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wad
 For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
 
 - Read Tooltips Docs.
+
+    - Done.
