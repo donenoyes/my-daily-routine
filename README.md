@@ -1,4 +1,3 @@
-
 <h1 align="center">My Daily Routine</h1></br>
 
 <p align="center">
