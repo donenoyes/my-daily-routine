@@ -91,3 +91,11 @@ For the team at [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wad
     - Done.
 
 - Read Buttons docs.
+
+    - Done.
+
+#### Monday, 16 November 2020
+
+For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
+
+- Read Tooltips Docs.
