@@ -101,3 +101,5 @@ For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
 - Read Tooltips Docs.
 
     - Done.
+
+- Create an Expandable Notification
