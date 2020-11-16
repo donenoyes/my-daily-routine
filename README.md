@@ -101,6 +101,8 @@ For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
 
     - Done.
 
-- Create an Expandable Notification
+- Read Create an Expandable Notification
 
     - Done.
+
+- Read People and conversations
