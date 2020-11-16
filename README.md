@@ -97,12 +97,12 @@ For the team [Chi no Wadachi](https://myanimelist.net/manga/104271/Chi_no_Wadach
 
 For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
 
-- Read Tooltips Docs.
+- Read Tooltips docs.
 
     - Done.
 
-- Read Create an Expandable Notification Docs.
+- Read Create an Expandable Notification docs.
 
     - Done.
 
-- Read People and conversations Docs.
+- Read People and conversations docs.
