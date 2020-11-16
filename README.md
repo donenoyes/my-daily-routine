@@ -116,3 +116,9 @@ For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
 - Read Supporting Swipe-to-Refresh docs.
 
     - Done.
+
+#### Tuesday, 17 November 2020
+
+For the team [New Journey to the West](https://en.wikipedia.org/wiki/New_Journey_to_the_West).
+
+- Read Use saved values docs.
