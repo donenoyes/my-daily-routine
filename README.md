@@ -106,3 +106,7 @@ For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
     - Done.
 
 - Read People and conversations docs.
+
+    - Done.
+
+- Read Control the system UI visibility docs.
