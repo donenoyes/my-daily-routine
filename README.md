@@ -110,3 +110,8 @@ For the team [Buzz | Min Kyung Hoon](https://en.wikipedia.org/wiki/Buzz_(band)).
     - Done.
 
 - Read Control the system UI visibility docs.
+
+    - Done.
+
+- Read Supporting Swipe-to-Refresh docs.
+
