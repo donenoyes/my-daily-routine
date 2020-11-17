@@ -126,3 +126,7 @@ For the team [New Journey to the West](https://en.wikipedia.org/wiki/New_Journey
     - Done.
 
 - Read Search Overview docs.
+
+    - Done.
+
+- Read Adding Custom Suggestions docs.
