@@ -138,3 +138,11 @@ For the team [New Journey to the West](https://en.wikipedia.org/wiki/New_Journey
 For the team [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 255
 
 - Read Setting Up the Search Interface docs.
+
+    - Done.
+
+#### Thursday, 19 November 2020
+
+For Korean music
+
+- Created https://github.com/androiddevnotes/android-sitemap
