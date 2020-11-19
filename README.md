@@ -157,7 +157,7 @@ For the team [The Prince of Tennis](https://en.wikipedia.org/wiki/The_Prince_of_
 
 - d1-u2022 
 
-    -rm repo when dn-u2022 is broken.
+    - rm repo when dn-u2022 is broken.
 
 
 
