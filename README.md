@@ -153,6 +153,12 @@ For the team [The Prince of Tennis](https://en.wikipedia.org/wiki/The_Prince_of_
 
 - Read Reveal or hide a view using animation docs.
 
+    - Done.
+
+- d1-u2022 
+
+    -rm repo when dn-u2022 is broken.
+
 
 
 
