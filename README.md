@@ -143,6 +143,16 @@ For the team [Knowing Bros](https://en.wikipedia.org/wiki/Knowing_Bros). Ep. 255
 
 #### Thursday, 19 November 2020
 
-For Korean music
+For Korean music.
 
 - Created https://github.com/androiddevnotes/android-sitemap
+
+#### Friday, 20 November 2020
+
+For the team [The Prince of Tennis](https://en.wikipedia.org/wiki/The_Prince_of_Tennis)
+
+- Read Reveal or hide a view using animation docs.
+
+
+
+
