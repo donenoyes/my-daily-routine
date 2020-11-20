@@ -155,10 +155,10 @@ For the team [The Prince of Tennis](https://en.wikipedia.org/wiki/The_Prince_of_
 
     - Done.
 
-- d1-u2022 
+- d1-f-u2022 
 
-    - rm repo when dn-u2022 is broken.
+    - rm repo when dn-f-u2022 is broken.
 
+- d1-b-u2022
 
-
-
+    - rm repo when dn-b-u2022 is broken.
